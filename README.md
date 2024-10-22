@@ -1,4 +1,4 @@
-# Test change
+[![Build Status](https://dev.azure.com/human-org/Space%20Game%20-%20web%20pipeline/_apis/build/status%2FDefinitely-Human.mslearn-tailspin-spacegame-web%20(3)?branchName=main)](https://dev.azure.com/human-org/Space%20Game%20-%20web%20pipeline/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
